@@ -1,0 +1,11 @@
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\bin\Debug\mydb.accdb
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe.config
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.exe
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\bin\Debug\CRUDMsAccess.pdb
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csprojAssemblyReference.cache
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Form1.resources
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.Properties.Resources.resources
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.GenerateResource.cache
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.csproj.CoreCompileInputs.cache
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.exe
+D:\UKK\OOP\CRUDMsAccess\CRUDMsAccess\obj\Debug\CRUDMsAccess.pdb
